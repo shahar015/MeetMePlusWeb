@@ -1,0 +1,9 @@
+{
+  "name": "meetMePlus",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/meetMePlus/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project meetMePlus --web",
+  "targets": {}
+}
