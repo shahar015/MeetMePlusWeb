@@ -1,0 +1,10 @@
+{
+  "name": "meetMePlus-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/meetMePlus-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["meetMePlus"],
+  "// targets": "to see all targets run: nx show project meetMePlus-e2e --web",
+  "targets": {}
+}
